@@ -47,7 +47,7 @@ dogCard.addEventListener('click', () => {
   // add some interactivity
 return dogCard;
   // never forget to return!
-}
+} 
 
 
 // 👉 TASK 4- Bring the Axios library into the project using one of two methods:
